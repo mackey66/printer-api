@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+.switch-router-enter-active {
+    transition: opacity .7s;
+    opacity: 0;
+}
+
+.switch-router-enter-to {
+    opacity: 1;
+}
+*/
