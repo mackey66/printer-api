@@ -17,7 +17,6 @@ window.electronAPI.onUpdateCounter((value) => {
 })
 */
 
-
 const bool = [0, 1]
 const size = ['A0', 'A1', 'A2', 'A3', 'A4', 'A5', 'A6', 'Legal', 'Letter', 'Tabloid']
 const duplex = ['simplex', 'shortEdge', 'longEdge']
