@@ -217,7 +217,7 @@ db.serialize(() => {
   'landscape INTEGER, ' + 
   'color INTEGER, ' + 
   'margins TEXT, ' + 
-  'scaleFactor INTEGER, ' + 
+  'scaleFactor REAL, ' + 
   'pagesPerSheet INTEGER, ' + 
   'collated INTEGER, ' + 
   'copies INTEGER, ' + 
